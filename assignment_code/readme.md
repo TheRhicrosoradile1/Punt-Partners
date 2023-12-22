@@ -52,3 +52,4 @@ You are tasked to enhance a SaaS platform providing "Coupon Code" services with 
 - Include some tests and outline others you'd write with more time.
 - Use an in-memory database abstraction, considering future integration with a persistent store.
 - Enjoy the process!
+
